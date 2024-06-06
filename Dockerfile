@@ -1,6 +1,6 @@
 FROM python:3.11-slim-buster
 
-LABEL name="transparencia-transferencias-estaduais"
+LABEL name="sistema-monitoramento-diario-agravos"
 
 LABEL version="1.0"
 
